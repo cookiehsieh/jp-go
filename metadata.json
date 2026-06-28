@@ -1,0 +1,8 @@
+{
+  "name": "日本代購匯率報價換算",
+  "description": "專為日本代購賣家與消費者設計的換算估價工具，支援台銀最新匯率查詢、EMS 國際運費標準、日本消費稅計算、手續費調整及一鍵複製報價，並提供本地儲存記憶設定。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
